@@ -7,7 +7,8 @@
              mc:Ignorable="d" 
              Height="350"
              Width="400"
-             ResizeMode="NoResize">
+             ResizeMode="NoResize"
+             Icon="container.ico">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
